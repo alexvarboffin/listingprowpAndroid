@@ -1,0 +1,15 @@
+{
+  "Home": {
+    "pagename": "Home",
+    "homeLabelfirst": "Browse Anything",
+    "homeLabelSecond": "Explore",
+    "searchBarLabel": "Ex: food,service,barber,hotel",
+    "exlusiveLabel": "Exclusive",
+    "exclusiveSubtitle": "Popular Exclusive Listings In Our Directory",
+    "exclusiveCallLabel": "Call Now",
+    "citySliderLabel": "Happening Cities",
+    "citySliderSubtitle": "Cities You Must Explore This Summer",
+    "cityCardListingLabel": "listings",
+    "newsSLiderTitle": "News & Tips"
+  }
+}

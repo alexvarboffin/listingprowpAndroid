@@ -1,0 +1,15 @@
+{
+  "Home": {
+    "pagename": "Дом",
+    "homeLabelfirst": "Искать что угодно",
+    "homeLabelSecond": "Проводить исследования",
+    "searchBarLabel": "Пример: еда, услуги, парикмахерская, гостиница.",
+    "exlusiveLabel": "Эксклюзивный",
+    "exclusiveSubtitle": "Популярные эксклюзивные предложения в нашем каталоге",
+    "exclusiveCallLabel": "Позвони сейчас",
+    "citySliderLabel": "Происходящие города",
+    "citySliderSubtitle": "Города, которые стоит посетить этим летом",
+    "cityCardListingLabel": "списки",
+    "newsSLiderTitle": "Новости и советы"
+  }
+}
